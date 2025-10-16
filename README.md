@@ -6,14 +6,23 @@ Mini Banking System built with Python. Features include account creation, deposi
 🧾 Create a new bank account
 
 💰 Deposit and withdraw money
+
 💳 Check account balance
+
 ⚙️ Auto-generated account IDs
+
 📂 Data stored safely using JSON
+
 🧠 Implemented using OOP, File Handling, and Exception Handling
 
 🛠️ Technologies Used
+
 -Python 3
+
 -JSON for data storage
+
 -OOP principles
+
 -File Handling
+
 -Exception Handling
