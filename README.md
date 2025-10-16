@@ -4,6 +4,7 @@ Mini Banking System built with Python. Features include account creation, deposi
 #🚀 Features
 
 🧾 Create a new bank account
+
 💰 Deposit and withdraw money
 💳 Check account balance
 ⚙️ Auto-generated account IDs
